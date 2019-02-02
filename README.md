@@ -12,8 +12,8 @@ For example,
 
 where
 
-A = Predictions from XGBoost Model #1
-B = Predictions from XGBoost Model #2
+A = Predictions from XGBoost Model #1\\
+B = Predictions from XGBoost Model #2\\
 C = Predictions from XGBoost Model #3
 
 The three XGboost models are
