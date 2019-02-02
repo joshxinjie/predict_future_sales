@@ -6,7 +6,9 @@ Project for the Predict Future Sales competition at [Kaggle](https://www.kaggle.
 For example,
 
 A  | B | C |target
+------------------
 2.7|3.1|3.7|4
+------------------
 5.6|6.2|4.9|5.8
 
 where
